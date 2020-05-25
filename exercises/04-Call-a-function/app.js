@@ -7,5 +7,5 @@ function calculateArea(length,edge)
 
 
 
-
+var squareArea = calculateArea(3,6)
 
